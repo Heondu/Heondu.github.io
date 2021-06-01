@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: /publications/
     
+docs:
+  - title: "유니티"
+    children:
+      - title: "PCG"
+        url: /pcg/
+    
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
