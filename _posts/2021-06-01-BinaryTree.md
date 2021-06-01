@@ -7,8 +7,6 @@ comments: true
 toc: true
 toc_sticky: true
 toc_label: "목차"
-sidebar:
-  nav: "main"
 ---
 
 ## Binary Tree Algorithm이란?
