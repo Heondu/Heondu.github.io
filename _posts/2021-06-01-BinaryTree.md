@@ -20,7 +20,7 @@ tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 
 
 
-<img src="image/2021-06-01-BinaryTree/Process 1.PNG" alt="Process 1" style="zoom:50%;" /><img src="image/2021-06-01-BinaryTree/Process 2.PNG" alt="Process 2" style="zoom:50%;" /><img src="image/2021-06-01-BinaryTree/Process 3.PNG" alt="Process 3" style="zoom:50%;" /><img src="image/2021-06-01-BinaryTree/Process 4.PNG" alt="Process 4" style="zoom:50%;" />
+<img src="assets/image/2021-06-01-BinaryTree/Process 1.PNG" alt="Process 1" style="zoom:50%;" /><img src="assets/image/2021-06-01-BinaryTree/Process 2.PNG" alt="Process 2" style="zoom:50%;" /><img src="assets/image/2021-06-01-BinaryTree/Process 3.PNG" alt="Process 3" style="zoom:50%;" /><img src="assets/image/2021-06-01-BinaryTree/Process 4.PNG" alt="Process 4" style="zoom:50%;" />
 
 ​					 (1번 과정) 											  (2번 과정) 											(3번 과정)	 										(최종 형태)
 
