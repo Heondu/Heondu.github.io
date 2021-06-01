@@ -3,11 +3,15 @@ main:
   - title: "About"
     url: /about/
   - title: "Category"
-    url: /category-archive/
+    url: /categories/
   - title: "Archive"
     url: /year-archive/
   - title: "Publications"
     url: /publications/
+  - title: "유니티"
+    children:
+      - title: PCG
+        url: /categories/pcg/
     
 docs:
   - title: Getting Started
