@@ -2,16 +2,18 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Category"
-    url: /categories/
   - title: "Archive"
     url: /year-archive/
-  - title: "Publications"
-    url: /publications/
   - title: "유니티"
     children:
       - title: PCG
-        url: /categories/pcg/
+        url: /unity/pcg/
+      - title: 2D
+        url: /unity/2d/
+      - title: 3D
+        url: /unity/3d/
+  - title: "개발일지"
+    url: /devlog/
     
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
