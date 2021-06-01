@@ -1,5 +1,5 @@
 ---
-title: "[유니티] 절차적 콘텐츠 생성을 위한 이진 트리 미로 알고리즘 학습"
+title:  "[유니티] 절차적 콘텐츠 생성을 위한 이진 트리 미로 알고리즘 학습"
 layout: archive
 categories:
   - PCG
@@ -12,7 +12,6 @@ tag:
 comments: true
 toc: true
 toc_label: "목차"
-author_profile: true
 ---
 
 ## Binary Tree Algorithm이란?
