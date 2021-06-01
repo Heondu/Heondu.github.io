@@ -1,6 +1,6 @@
 ---
 title: "개발 일지"
-permalink: /devlog/
+permalink: /categories/devlog/
 layout: category
 author_profile: true
 taxonomy: 개발 일지
