@@ -5,13 +5,13 @@ main:
   - title: "유니티"
     children:
       - title: PCG
-        url: /unity/pcg/
-      - title: 2D
-        url: /unity/2d/
-      - title: 3D
-        url: /unity/3d/
+        url: /categories/pcg/
+      - title: 유니티 2D
+        url: /categories/unity2d/
+      - title: 유니티 3D
+        url: /categories/unity3d/
   - title: "개발 일지"
-    url: /devlog/
+    url: /categories/devlog/
     
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
