@@ -3,10 +3,6 @@ title:  "[유니티] 절차적 콘텐츠 생성을 위한 이진 트리 미로 �
 layout: single
 categories: "pcg"
 tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
-comments: true
-toc: true
-toc_sticky: true
-toc_label: "목차"
 ---
 
 ## Binary Tree Algorithm이란?
