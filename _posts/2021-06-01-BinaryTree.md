@@ -4,7 +4,7 @@ category: devlog
 tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 ---
 
-{% assing posts = site.devlog %}
+{% assign posts = site.devlog %}
 
 ## Binary Tree Algorithm이란?
 
