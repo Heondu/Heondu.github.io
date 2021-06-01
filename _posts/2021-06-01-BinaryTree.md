@@ -1,6 +1,6 @@
 ---
 title:  "[유니티] 절차적 콘텐츠 생성을 위한 이진 트리 미로 알고리즘 학습"
-categories: /unity/pcg/
+categories: pcg
 tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 ---
 
