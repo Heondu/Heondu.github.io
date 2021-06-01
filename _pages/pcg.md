@@ -1,6 +1,6 @@
 ---
 title: "PCG"
-permalink: /unity/pcg/
+permalink: /categories/pcg/
 layout: category
 author_profile: true
 taxonomy: PCG
