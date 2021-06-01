@@ -1,6 +1,6 @@
 ---
 title: "Unity 2D"
-permalink: /unity/2d/
+permalink: /categories/2d/
 layout: category
 author_profile: true
 taxonomy: Unity 2D
