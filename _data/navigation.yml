@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archive"
-    url: /year-archive/
   - title: "유니티"
     children:
       - title: PCG
