@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Category"
-    url: /categories/
+    url: /category-archive/
   - title: "Archive"
     url: /year-archive/
   - title: "Publications"
@@ -13,7 +13,7 @@ docs:
   - title: "유니티"
     children:
       - title: "PCG"
-        url: /pcg/
+        url: /docs/pcg/
     
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
