@@ -3,7 +3,7 @@ title:  "[유니티] 절차적 콘텐츠 생성을 위한 이진 트리 미로 �
 layout: archive
 categories:
   - PCG
-tag:
+tags:
   - PCG
   - Unity
   - BinaryTree
