@@ -1,8 +1,10 @@
 ---
 title:  "[유니티] 절차적 콘텐츠 생성을 위한 이진 트리 미로 알고리즘 학습"
-category: pcg
+categories: pcg
 tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 ---
+
+
 
 ## Binary Tree Algorithm이란?
 
@@ -18,9 +20,9 @@ tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 
 
 
-<img src="/assets/2021-06-01-BinaryTree/Process 1.PNG" alt="Process 1" style="zoom:50%;" /><img src="/assets/2021-06-01-BinaryTree/Process 2.PNG" alt="Process 2" style="zoom:50%;" /><img src="/assets/2021-06-01-BinaryTree/Process 3.PNG" alt="Process 3" style="zoom:50%;" /><img src="/assets/2021-06-01-BinaryTree/Process 4.PNG" alt="Process 4" style="zoom:50%;" />
+<img src="image/2021-06-01-BinaryTree/Process 1.PNG" alt="Process 1" style="zoom:50%;" /><img src="image/2021-06-01-BinaryTree/Process 2.PNG" alt="Process 2" style="zoom:50%;" /><img src="image/2021-06-01-BinaryTree/Process 3.PNG" alt="Process 3" style="zoom:50%;" /><img src="image/2021-06-01-BinaryTree/Process 4.PNG" alt="Process 4" style="zoom:50%;" />
 
-					 (1번 과정) 											  (2번 과정) 											(3번 과정)	 										(최종 형태)
+​					 (1번 과정) 											  (2번 과정) 											(3번 과정)	 										(최종 형태)
 
 
 
