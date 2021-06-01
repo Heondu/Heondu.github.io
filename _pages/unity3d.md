@@ -1,6 +1,6 @@
 ---
 title: "Unity 3D"
-permalink: /unity/3d/
+permalink: /categories/unity3d/
 layout: category
 author_profile: true
 taxonomy: Unity 3D
