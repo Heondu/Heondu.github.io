@@ -4,7 +4,7 @@ category: pcg
 tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 ---
 
-{% assign posts = site.categories.pcg %}
+{% assign posts = site.pcg %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 
 ## Binary Tree Algorithm이란?
