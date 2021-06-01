@@ -13,7 +13,7 @@ docs:
   - title: "유니티"
     children:
       - title: "PCG"
-        url: /docs/pcg/
+        url: /pcg/
     
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
