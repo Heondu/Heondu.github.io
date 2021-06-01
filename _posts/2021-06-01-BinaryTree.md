@@ -4,11 +4,11 @@ layout: single
 categories:
   - PCG
 tags:
-  - PCG  
-  - Unity  
-  - BinaryTree  
-  - 미로  
-  - 절차적 생성  
+  - PCG
+  - Unity
+  - BinaryTree
+  - 미로
+  - 절차적 생성
 comments: true
 toc: true
 toc_sticky: true
