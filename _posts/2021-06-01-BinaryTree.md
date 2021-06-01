@@ -4,6 +4,8 @@ category: devlog
 tags: [PCG, Unity, BinaryTree, 미로, 절차적생성]
 ---
 
+{% assing posts = site.devlog %}
+
 ## Binary Tree Algorithm이란?
 
 2차원 배열 형태의 미로를 생성하는 알고리즘이다. 오른쪽 혹은 위쪽으로 랜덤하게 길을 만들어 미로를 생성한다. 가지치기 형태로 사용되는 일반적인 이진 트리 알고리즘과 미로 생성시 사용되는 이진 트리 알고리즘은 조금 차이가 있다.
